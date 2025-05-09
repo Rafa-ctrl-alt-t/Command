@@ -1,0 +1,39 @@
+
+Crosh commands
+arc-                  diag-              gesture_prop-         p2p_update-           set_wake_on_lan-      tpm_status-           wifi_fw_dump-
+autest-              display_debug-       help-                packet_capture-       shell-                tracepath-            wifi_power_save-
+authpolicy_debug-     dlc_install-          help_advanced-        ping-                 storage_test_1-       u2f_flags-            wireguard-
+battery_firmware-     dmesg-                insert_coin-          rlz-                  storage_test_2-       uname-                wpa_debug-
+battery_test-         dump_emk-             ipaddrs-              rollback-             swap-                 upload_crashes-
+bt_console-           enroll_status-        live_in_a_coal_mine-  route-                sync-                 upload_devcoredumps-
+chaps_debug-          evtest-               meminfo-              set_apn-              syslog-               uptime-
+connectivity-         exit-                 memory_test-          set_arpgw-            systrace-             vmc-
+cras-                 ff_debug-             modem-                set_cellular_ppp-     time_info-            vmstat-
+cryptohome_status-    free-                 network_diag-         set_time-             top-                  vsh OBS:Some of them don't work
+                             ________________________________
+                            |  /____________________________/
+                            |  |                           |
+                            |  |                           |                          
+                            |  |         RAFA              |
+                            |  |                           |
+                            |  |___________________________|
+                            |   \ ==  o      *    == o      \
+                            |    \    |:::           |:::     \           
+                            |       \___________________________\                          
+                            |        |_________________________ |
+                            |       /      P1  |_| |_|  P2     /
+                            |      |           .-. .-c         |
+                            |      |           |_|  |_|        |
+                              \    |           |      |        |
+                                \  |           |      |        |
+                                  \|___________|______|________|
+    
+                        
+
+
+
+
+
+
+
+
